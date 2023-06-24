@@ -27,13 +27,13 @@ async function uso1(button) {
     }
     var imgArm1 = document.getElementById("imgArm1")
     if (button.classList.contains("arm-desocupado")) {
-        imgArm1.src = "src/imgs/arm-aberto (2).png"
+        imgArm1.src = "arm-aberto (2).png"
     }
     else if (button.classList.contains("arm-ocupado")) {
-        imgArm1.src = "src/imgs/arm-fechado (2).png"
+        imgArm1.src = "arm-fechado (2).png"
     }
     else {
-        imgArm1.src = "src/imgs/arm-manut (2).png"
+        imgArm1.src = "arm-manut (2).png"
     }
 }
 async function uso2(button) {
@@ -56,13 +56,13 @@ async function uso2(button) {
     }
     var imgArm2 = document.getElementById("imgArm2")
     if (button.classList.contains("arm-desocupado")) {
-        imgArm2.src = "src/imgs/arm-aberto (2).png"
+        imgArm2.src = "arm-aberto (2).png"
     }
     else if (button.classList.contains("arm-ocupado")) {
-        imgArm2.src = "src/imgs/arm-fechado (2).png"
+        imgArm2.src = "arm-fechado (2).png"
     }
     else {
-        imgArm2.src = "src/imgs/arm-manut (2).png"
+        imgArm2.src = "arm-manut (2).png"
     }
 }
 async function uso3(button) {
@@ -85,13 +85,13 @@ async function uso3(button) {
     }
     var imgArm3 = document.getElementById("imgArm3")
     if (button.classList.contains("arm-desocupado")) {
-        imgArm3.src = "src/imgs/arm-aberto (2).png"
+        imgArm3.src = "arm-aberto (2).png"
     }
     else if (button.classList.contains("arm-ocupado")) {
-        imgArm3.src = "src/imgs/arm-fechado (2).png"
+        imgArm3.src = "arm-fechado (2).png"
     }
     else {
-        imgArm3.src = "src/imgs/arm-manut (2).png"
+        imgArm3.src = "arm-manut (2).png"
     }
 }
 async function uso4(button) {
@@ -114,13 +114,13 @@ async function uso4(button) {
     }
     var imgArm4 = document.getElementById("imgArm4")
     if (button.classList.contains("arm-desocupado")) {
-        imgArm4.src = "src/imgs/arm-aberto (2).png"
+        imgArm4.src = "arm-aberto (2).png"
     }
     else if (button.classList.contains("arm-ocupado")) {
-        imgArm4.src = "src/imgs/arm-fechado (2).png"
+        imgArm4.src = "arm-fechado (2).png"
     }
     else {
-        imgArm4.src = "src/imgs/arm-manut (2).png"
+        imgArm4.src = "arm-manut (2).png"
     }
 }
 async function uso5(button) {
@@ -143,13 +143,13 @@ async function uso5(button) {
     }
     var imgArm5 = document.getElementById("imgArm5")
     if (button.classList.contains("arm-desocupado")) {
-        imgArm5.src = "src/imgs/arm-aberto (2).png"
+        imgArm5.src = "arm-aberto (2).png"
     }
     else if (button.classList.contains("arm-ocupado")) {
-        imgArm5.src = "src/imgs/arm-fechado (2).png"
+        imgArm5.src = "arm-fechado (2).png"
     }
     else {
-        imgArm5.src = "src/imgs/arm-manut (2).png"
+        imgArm5.src = "arm-manut (2).png"
     }
 }
 async function uso6(button) {
@@ -172,12 +172,12 @@ async function uso6(button) {
     }
     var imgArm6 = document.getElementById("imgArm6")
     if (button.classList.contains("arm-desocupado")) {
-        imgArm6.src = "src/imgs/arm-aberto (2).png"
+        imgArm6.src = "arm-aberto (2).png"
     }
     else if (button.classList.contains("arm-ocupado")) {
-        imgArm6.src = "src/imgs/arm-fechado (2).png"
+        imgArm6.src = "arm-fechado (2).png"
     }
     else {
-        imgArm6.src = "src/imgs/arm-manut (2).png"
+        imgArm6.src = "arm-manut (2).png"
     }
 }
