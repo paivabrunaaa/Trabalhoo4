@@ -1,9 +1,3 @@
-/* 
-function bttsArms(button) {
-    if (button.classList.contains("arm-desocupado")) {
-        console.log('oi')
-    }
-} */
 
 var oi = document.getElementById("imgTeste")
 
